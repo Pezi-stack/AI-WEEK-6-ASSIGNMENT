@@ -4,7 +4,8 @@
 
 **SmartAgri AI** is an innovative smart agriculture system that leverages Edge Artificial Intelligence and Internet of Things technologies to revolutionize traditional farming practices. This system enables real-time monitoring, predictive analytics, and automated decision-making for optimized crop production and resource management.
 
-![Smart Agriculture System](https://www.canva.com/design/DAG4gqRwQUA/uX52ZyLyAeEI5TrFUnN4eQ/view?utm_content=DAG4gqRwQUA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<img width="782" height="441" alt="AGRICULTURE SOLUTIONS" src="https://github.com/user-attachments/assets/d92d526f-fe4e-4aa0-b6ec-a5ca420974eb" />
+
 
 **Canva Design Link:** [Smart Agriculture System Design](https://www.canva.com/design/DAG4gqRwQUA/uX52ZyLyAeEI5TrFUnN4eQ/edit?utm_content=DAG4gqRwQUA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -227,3 +228,4 @@ For technical support or questions about implementation:
 ---
 
 **🌟 "Feeding the Future with Smart Technology" 🌟**
+
